@@ -1,5 +1,6 @@
 # Alife Social
 Places where to interact with fellow ALifers. To add yourself, submit a pull request or contact lana.sinapayen@gmail.com
+Please do not add other people's handles without their consent.
 
 ## Discord
 
