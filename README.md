@@ -9,6 +9,7 @@ The International Society for Artificial Life's discord: https://discord.com/inv
 ## Mastodon
 
 Lana Sinapayen https://mastodon.social/@lana_sina
+
 Hiroki Sayama https://mstdn.science/@hirokisayama
 
 ## Blogs
@@ -16,11 +17,13 @@ Hiroki Sayama https://mstdn.science/@hirokisayama
 ## BlueSky
 
 Lana Sinapayen https://bsky.app/profile/sinalana.bsky.social
+
 Hiroki Sayama https://bsky.app/profile/hirokisayama.bsky.social
 
 ## Maven
 
 Hiroki Sayama https://app.heymaven.com/profile/1897
+
 Lana Sinapayen https://app.heymaven.com/profile
 
 ## Linkedin
