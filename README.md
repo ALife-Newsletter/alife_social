@@ -12,6 +12,8 @@ Lana Sinapayen https://mastodon.social/@lana_sina
 
 Hiroki Sayama https://mstdn.science/@hirokisayama
 
+Adam Stanton https://wandering.shop/@teapot
+
 ## Blogs
 
 ## BlueSky
