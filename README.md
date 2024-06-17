@@ -14,6 +14,8 @@ Hiroki Sayama https://mstdn.science/@hirokisayama
 
 Adam Stanton https://wandering.shop/@teapot
 
+Nate Gaylinn https://tech.lgbt/@ngaylinn
+
 ## Blogs
 
 ## BlueSky
