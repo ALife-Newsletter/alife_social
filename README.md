@@ -16,6 +16,10 @@ Adam Stanton https://wandering.shop/@teapot
 
 Nate Gaylinn https://tech.lgbt/@ngaylinn
 
+clayote https://peoplemaking.games/@clayote
+
+Claus Aranha https://scholar.social/@caranha
+
 ## Blogs
 
 ## BlueSky
