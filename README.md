@@ -46,6 +46,8 @@ Hiroki Sayama https://www.facebook.com/hirokisayama
 
 Hiroki Sayama https://www.instagram.com/hsayama/
 
+Imy Khan http://instagram.com/imytk
+
 ## Threads
 
 Hiroki Sayama https://www.threads.net/@hsayama
@@ -57,5 +59,15 @@ Hiroki Sayama https://youtube.com/ComplexSystem
 ## X
 
 Hiroki Sayama https://x.com/hirokisayama
+
+Imy Khan https://twitter.com/imy_tk
+
+## Tiktok
+
+Imy Khan https://www.tiktok.com/@imy_k 
+
+## Podcasts
+
+Imy Khan http://podcast.imytk.co.uk/
 
 ## Physical spaces
