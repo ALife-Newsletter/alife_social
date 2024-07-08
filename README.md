@@ -1,5 +1,5 @@
 # Alife Social
-Places where to interact with fellow ALifers. To add yourself or signal dead links, submit a pull request or contact lana.sinapayen@gmail.com
+Places where to interact with fellow ALifers. To add yourself or signal dead links, submit a pull request or fill this form: https://forms.gle/GZfgE5Am3mPwo64MA]
 Please do not add other people's handles without their consent.
 
 ## Discord
