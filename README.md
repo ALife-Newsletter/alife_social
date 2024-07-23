@@ -38,6 +38,8 @@ Lana Sinapayen https://app.heymaven.com/profile
 
 Hiroki Sayama https://linkedin.com/in/hirokisayama
 
+David Bloomin https://linkedin.com/in/daveey
+
 ## Facebook
 
 Hiroki Sayama https://www.facebook.com/hirokisayama
@@ -52,6 +54,10 @@ Imy Khan http://instagram.com/imytk
 
 Hiroki Sayama https://www.threads.net/@hsayama
 
+## Github
+
+David Bloomin https://github.com/daveey
+
 ## Youtube
 
 Hiroki Sayama https://youtube.com/ComplexSystem
@@ -62,6 +68,8 @@ Hiroki Sayama https://x.com/hirokisayama
 
 Imy Khan https://twitter.com/imy_tk
 
+David Bloomin https://twitter.com/daveey
+
 ## Tiktok
 
 Imy Khan https://www.tiktok.com/@imy_k 
@@ -71,3 +79,8 @@ Imy Khan https://www.tiktok.com/@imy_k
 Imy Khan http://podcast.imytk.co.uk/
 
 ## Physical spaces
+
+## Other
+
+David Bloomin https://github.com/daveey
+
