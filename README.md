@@ -45,6 +45,8 @@ David Bloomin https://linkedin.com/in/daveey
 
 Stefano Nichele https://www.linkedin.com/in/stefano-nichele-a873714
 
+Russell Standish https://www.linkedin.com/in/russell-standish-3728a23/
+
 ## Facebook
 
 Hiroki Sayama https://www.facebook.com/hirokisayama
@@ -62,6 +64,8 @@ Hiroki Sayama https://www.threads.net/@hsayama
 ## Github
 
 David Bloomin https://github.com/daveey
+
+Russell Standish https://github.com/highperformancecoder
 
 ## Youtube
 
