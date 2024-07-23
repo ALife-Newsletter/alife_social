@@ -43,6 +43,8 @@ Hiroki Sayama https://linkedin.com/in/hirokisayama
 
 David Bloomin https://linkedin.com/in/daveey
 
+Stefano Nichele https://www.linkedin.com/in/stefano-nichele-a873714
+
 ## Facebook
 
 Hiroki Sayama https://www.facebook.com/hirokisayama
@@ -65,7 +67,7 @@ David Bloomin https://github.com/daveey
 
 Hiroki Sayama https://youtube.com/ComplexSystem
 
-## X
+## Twitter / X
 
 Hiroki Sayama https://x.com/hirokisayama
 
@@ -74,6 +76,8 @@ Imy Khan https://twitter.com/imy_tk
 David Bloomin https://twitter.com/daveey
 
 Matthias Freiberger https://twitter.com/mfreib
+
+Stefano Nichele https://twitter.com/stenichele
 
 ## Tiktok
 
