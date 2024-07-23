@@ -1,5 +1,6 @@
 # Alife Social
-Places where to interact with fellow ALifers. To add yourself or signal dead links, submit a pull request or fill this form: https://forms.gle/GZfgE5Am3mPwo64MA]
+Places where to interact with fellow ALifers. To add yourself or signal dead links, submit a pull request or fill this form: https://forms.gle/GZfgE5Am3mPwo64MA
+
 Please do not add other people's handles without their consent.
 
 ## Discord
@@ -27,6 +28,8 @@ Claus Aranha https://scholar.social/@caranha
 Lana Sinapayen https://bsky.app/profile/sinalana.bsky.social
 
 Hiroki Sayama https://bsky.app/profile/hirokisayama.bsky.social
+
+Matthias Freiberger https://bsky.app/profile/freiberg.bsky.social
 
 ## Maven
 
@@ -69,6 +72,8 @@ Hiroki Sayama https://x.com/hirokisayama
 Imy Khan https://twitter.com/imy_tk
 
 David Bloomin https://twitter.com/daveey
+
+Matthias Freiberger https://twitter.com/mfreib
 
 ## Tiktok
 
