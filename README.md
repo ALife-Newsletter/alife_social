@@ -94,6 +94,8 @@ Carine Naomi Imasato https://twitter.com/cnimasato
 
 Gabriel J Severino https://x.com/GJSeverino
 
+Kai Olav Ellefsen https://x.com/Jallafsen
+
 ## Tiktok
 
 Imy Khan https://www.tiktok.com/@imy_k 
