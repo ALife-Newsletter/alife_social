@@ -21,6 +21,8 @@ clayote https://peoplemaking.games/@clayote
 
 Claus Aranha https://scholar.social/@caranha
 
+Peter Rood https://mastodon.social/@peterood
+
 ## Blogs
 
 Gabriel J Severino https://sites.google.com/view/gabrieljulianoseverino/home
@@ -36,11 +38,15 @@ Hiroki Sayama https://bsky.app/profile/hirokisayama.bsky.social
 
 Matthias Freiberger https://bsky.app/profile/freiberg.bsky.social
 
+Peter Rood https://bsky.app/profile/pdr.io
+
 ## Maven
 
 Hiroki Sayama https://app.heymaven.com/profile/1897
 
 Lana Sinapayen https://app.heymaven.com/profile/6311
+
+Peter Rood https://app.heymaven.com/profile/399
 
 ## Linkedin
 
@@ -51,6 +57,8 @@ David Bloomin https://linkedin.com/in/daveey
 Stefano Nichele https://www.linkedin.com/in/stefano-nichele-a873714
 
 Russell Standish https://www.linkedin.com/in/russell-standish-3728a23/
+
+Peter Rood https://www.linkedin.com/in/peterood/
 
 ## Facebook
 
@@ -69,6 +77,8 @@ Gabriel J Severino http://instagram.com/gabethegoblin
 ## Threads
 
 Hiroki Sayama https://www.threads.net/@hsayama
+
+Peter Rood https://www.threads.net/@peterdrood
 
 ## Github
 
