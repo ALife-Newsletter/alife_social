@@ -23,6 +23,9 @@ Claus Aranha https://scholar.social/@caranha
 
 ## Blogs
 
+Gabriel J Severino https://sites.google.com/view/gabrieljulianoseverino/home
+
+
 ## BlueSky
 
 Lana Sinapayen https://bsky.app/profile/sinalana.bsky.social
@@ -35,7 +38,7 @@ Matthias Freiberger https://bsky.app/profile/freiberg.bsky.social
 
 Hiroki Sayama https://app.heymaven.com/profile/1897
 
-Lana Sinapayen https://app.heymaven.com/profile
+Lana Sinapayen https://app.heymaven.com/profile/6311
 
 ## Linkedin
 
@@ -58,6 +61,8 @@ Hiroki Sayama https://www.instagram.com/hsayama/
 Imy Khan http://instagram.com/imytk
 
 Carine Naomi Imasato http://instagram.com/noomydoesart
+
+Gabriel J Severino http://instagram.com/gabethegoblin
 
 ## Threads
 
@@ -86,6 +91,8 @@ Matthias Freiberger https://twitter.com/mfreib
 Stefano Nichele https://twitter.com/stenichele
 
 Carine Naomi Imasato https://twitter.com/cnimasato
+
+Gabriel J Severino https://x.com/GJSeverino
 
 ## Tiktok
 
