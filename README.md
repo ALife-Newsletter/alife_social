@@ -57,6 +57,8 @@ Hiroki Sayama https://www.instagram.com/hsayama/
 
 Imy Khan http://instagram.com/imytk
 
+Carine Naomi Imasato http://instagram.com/noomydoesart
+
 ## Threads
 
 Hiroki Sayama https://www.threads.net/@hsayama
@@ -82,6 +84,8 @@ David Bloomin https://twitter.com/daveey
 Matthias Freiberger https://twitter.com/mfreib
 
 Stefano Nichele https://twitter.com/stenichele
+
+Carine Naomi Imasato https://twitter.com/cnimasato
 
 ## Tiktok
 
