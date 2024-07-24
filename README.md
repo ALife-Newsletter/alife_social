@@ -25,6 +25,8 @@ Claus Aranha https://scholar.social/@caranha
 
 Gabriel J Severino https://sites.google.com/view/gabrieljulianoseverino/home
 
+Omer Markovitch https://sites.google.com/site/omermar/
+
 
 ## BlueSky
 
@@ -95,6 +97,8 @@ Carine Naomi Imasato https://twitter.com/cnimasato
 Gabriel J Severino https://x.com/GJSeverino
 
 Kai Olav Ellefsen https://x.com/Jallafsen
+
+Omer Markovitch https://x.com/omermarkovitch
 
 ## Tiktok
 
