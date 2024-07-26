@@ -63,6 +63,8 @@ Russell Standish https://www.linkedin.com/in/russell-standish-3728a23/
 
 Peter Rood https://www.linkedin.com/in/peterood/
 
+Thomas Michel https://www.linkedin.com/in/thomas-michel-71508123b
+
 ## Facebook
 
 Hiroki Sayama https://www.facebook.com/hirokisayama
@@ -89,6 +91,8 @@ David Bloomin https://github.com/daveey
 
 Russell Standish https://github.com/highperformancecoder
 
+Thomas Michel https://github.com/Thomick
+
 ## Youtube
 
 Hiroki Sayama https://youtube.com/ComplexSystem
@@ -114,6 +118,8 @@ Kai Olav Ellefsen https://x.com/Jallafsen
 Omer Markovitch https://x.com/omermarkovitch
 
 Ivan Yevenko https://x.com/ivan_yevenko
+
+Thomas Michel https://x.com/Thomik_
 
 
 ## Tiktok
