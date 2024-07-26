@@ -23,12 +23,15 @@ Claus Aranha https://scholar.social/@caranha
 
 Peter Rood https://mastodon.social/@peterood
 
+Jack Garbus https://fosstodon.org/@jarbus
+
 ## Blogs
 
 Gabriel J Severino https://sites.google.com/view/gabrieljulianoseverino/home
 
 Omer Markovitch https://sites.google.com/site/omermar/
 
+Jack Garbus jarbus.net
 
 ## BlueSky
 
