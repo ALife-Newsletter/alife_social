@@ -65,6 +65,8 @@ Peter Rood https://www.linkedin.com/in/peterood/
 
 Thomas Michel https://www.linkedin.com/in/thomas-michel-71508123b
 
+Julian Sanker https://www.linkedin.com/in/juliansanker
+
 ## Facebook
 
 Hiroki Sayama https://www.facebook.com/hirokisayama
@@ -79,6 +81,8 @@ Carine Naomi Imasato http://instagram.com/noomydoesart
 
 Gabriel J Severino http://instagram.com/gabethegoblin
 
+Julian Sanker http://instagram.com/juliansanker
+
 ## Threads
 
 Hiroki Sayama https://www.threads.net/@hsayama
@@ -92,6 +96,8 @@ David Bloomin https://github.com/daveey
 Russell Standish https://github.com/highperformancecoder
 
 Thomas Michel https://github.com/Thomick
+
+Julian Sanker https://github.com/jpsank
 
 ## Youtube
 
