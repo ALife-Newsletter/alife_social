@@ -110,6 +110,9 @@ Kai Olav Ellefsen https://x.com/Jallafsen
 
 Omer Markovitch https://x.com/omermarkovitch
 
+Ivan Yevenko https://x.com/ivan_yevenko
+
+
 ## Tiktok
 
 Imy Khan https://www.tiktok.com/@imy_k 
