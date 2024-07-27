@@ -7,6 +7,8 @@ Please do not add other people's handles without their consent.
 
 The International Society for Artificial Life's discord: https://discord.com/invite/SDfrWnTg
 
+The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://discord.gg/ER7tWds9vM
+
 ## Mastodon
 
 Lana Sinapayen https://mastodon.social/@lana_sina
