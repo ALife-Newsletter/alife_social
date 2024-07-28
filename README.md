@@ -1,7 +1,7 @@
 # Alife Social
 Places where to interact with fellow ALifers. To add yourself or signal dead links, submit a pull request or fill this form: https://forms.gle/GZfgE5Am3mPwo64MA
 
-Please do not add other people's handles without their consent.
+Please do not add other people's handles without their consent. To be removed from the directory please email lana.sinapayen at gmail.com
 
 ## Discord
 
@@ -27,6 +27,8 @@ Peter Rood https://mastodon.social/@peterood
 
 Jack Garbus https://fosstodon.org/@jarbus
 
+Seth Bullock https://fediscience.org/@sethbullock
+
 ## Blogs
 
 Gabriel J Severino https://sites.google.com/view/gabrieljulianoseverino/home
@@ -44,6 +46,8 @@ Hiroki Sayama https://bsky.app/profile/hirokisayama.bsky.social
 Matthias Freiberger https://bsky.app/profile/freiberg.bsky.social
 
 Peter Rood https://bsky.app/profile/pdr.io
+
+Seth Bullock https://bsky.app/profile/seth-bullock.bsky.social
 
 ## Maven
 
@@ -129,6 +133,8 @@ Ivan Yevenko https://x.com/ivan_yevenko
 
 Thomas Michel https://x.com/Thomik_
 
+Seth Bullock https://x.com/_SethBullock_
+
 
 ## Tiktok
 
@@ -144,6 +150,7 @@ Imy Khan http://podcast.imytk.co.uk/
 
 David Bloomin https://github.com/daveey
 
+Seth Bullock -> affiliation: university of bristol, uk; homepage: seis.bristol.ac.uk/~sb15704/; email: seth.bullock[at]bristol.ac.uk
 
 
 ## Directory
@@ -171,4 +178,5 @@ David Bloomin https://github.com/daveey
 | Russell Standish | [highperformancecoder](https://github.com/highperformancecoder) | | | | | | | https://www.linkedin.com/in/russell-standish-3728a23/ | | | | | | |
 | Stefano Nichele | | [@stenichele](https://twitter.com/stenichele) | | | | | | https://www.linkedin.com/in/stefano-nichele-a873714 | | | | | | |
 | Thomas Michel | [Thomick](https://github.com/Thomick) | [@Thomik_](https://x.com/Thomik_) | | | | | | https://www.linkedin.com/in/thomas-michel-71508123b | | | | | | |
+| Seth Bullock || [@_SethBullock_](https://x.com/@_SethBullock_) | [@sethbullock@fediscience.org](https://fediscience.org/@sethbullock) || [seth-bullock](https://bsky.app/profile/seth-bullock.bsky.social) ||||||||| [homepage](seis.bristol.ac.uk/~sb15704/); [email](seth.bullock@bristol.ac.uk] |
 | | | | | | | | | | | | | | | |
