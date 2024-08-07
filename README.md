@@ -73,6 +73,8 @@ Thomas Michel https://www.linkedin.com/in/thomas-michel-71508123b
 
 Julian Sanker https://www.linkedin.com/in/juliansanker
 
+Chrystopher L. Nehaniv https://www.linkedin.com/in/chrystopher-l-nehaniv-52684513/
+
 ## Facebook
 
 Hiroki Sayama https://www.facebook.com/hirokisayama
@@ -135,6 +137,7 @@ Thomas Michel https://x.com/Thomik_
 
 Seth Bullock https://x.com/_SethBullock_
 
+Chrystopher L. Nehaniv https://twitter.com/NehanivCL
 
 ## Tiktok
 
@@ -151,6 +154,8 @@ Imy Khan http://podcast.imytk.co.uk/
 David Bloomin https://github.com/daveey
 
 Seth Bullock -> affiliation: university of bristol, uk; homepage: seis.bristol.ac.uk/~sb15704/; email: seth.bullock[at]bristol.ac.uk
+
+Chrystopher L. Nehaniv  https://uwaterloo.ca/systems-design-engineering/profile/cnehaniv
 
 
 ## Directory
@@ -179,4 +184,7 @@ Seth Bullock -> affiliation: university of bristol, uk; homepage: seis.bristol.a
 | Stefano Nichele | | [@stenichele](https://twitter.com/stenichele) | | | | | | https://www.linkedin.com/in/stefano-nichele-a873714 | | | | | | |
 | Thomas Michel | [Thomick](https://github.com/Thomick) | [@Thomik_](https://x.com/Thomik_) | | | | | | https://www.linkedin.com/in/thomas-michel-71508123b | | | | | | |
 | Seth Bullock || [@_SethBullock_](https://x.com/@_SethBullock_) | [@sethbullock@fediscience.org](https://fediscience.org/@sethbullock) || [seth-bullock](https://bsky.app/profile/seth-bullock.bsky.social) ||||||||| [homepage](seis.bristol.ac.uk/~sb15704/); [email](seth.bullock@bristol.ac.uk] |
+| Chrystopher L. Nehaniv | | [@NehanivCL](https://twitter.com/NehanivCL) | | | | | | https://www.linkedin.com/in/chrystopher-l-nehaniv-52684513/ | | | | https://uwaterloo.ca/systems-design-engineering/profile/cnehaniv | | |
 | | | | | | | | | | | | | | | |
+
+
