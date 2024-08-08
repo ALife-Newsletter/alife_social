@@ -37,6 +37,8 @@ Omer Markovitch https://sites.google.com/site/omermar/
 
 Jack Garbus jarbus.net
 
+Adam Stanton https://machinemachines.org
+
 ## BlueSky
 
 Lana Sinapayen https://bsky.app/profile/sinalana.bsky.social
@@ -162,7 +164,7 @@ Chrystopher L. Nehaniv  https://uwaterloo.ca/systems-design-engineering/profile/
 
 | Name | Github | Twitter / X | Mastodon | Threads | BlueSky | Maven | Instagram | Linkedin | Facebook | YouTube | TikTok | Blogs | Podcasts | Other |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Adam Stanton | | | [@teapot](https://wandering.shop/@teapot) | | | | | | | | | | | |
+| Adam Stanton | | | [@teapot](https://wandering.shop/@teapot) | | | | | | | | | https://machinemachines.org | | |
 | Carine Naomi Imasato | | [@cnimasato](https://twitter.com/cnimasato) | | | | | [@noomydoesart](http://instagram.com/noomydoesart) | | | | | | | |
 | Claus Aranha | | | [@caranha](https://scholar.social/@caranha) | | | | | | | | | | | |
 | clayote | | | [@clayote](https://peoplemaking.games/@clayote) | | | | | | | | | | | |
