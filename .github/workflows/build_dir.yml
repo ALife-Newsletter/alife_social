@@ -1,0 +1,86 @@
+# This is a basic workflow to help you get started with Actions
+
+name: build_directory
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+          
+      # install required tools
+      - name: Install yq tool
+        run: |
+          sudo snap install yq
+          pip install csvkit
+      
+      # Run the compiler
+      - name: Run the directory compiler
+        run: sh compile.sh
+
+      # Run the details compiler
+      - name: Run the details partial markdown compiler
+        run: sh details.sh
+      
+      # Create README.md boilerplate
+      - name: Create README.md boilerplate
+        run: cat top.md > README.md
+
+      # Add homepages and blogs
+      - name: Add homepages and blogs
+        run: |
+          echo "## Homepages" >> README.md
+          cat _build/homepages.md >> README.md
+
+          echo "## Blogs" >> README.md
+          cat _build/blogs.md >> README.md
+
+      # Add social sections
+      - name: Add social sections
+        run: echo "## Social Media" >> README.md
+
+      # Add social details to README.md
+      - name: Add social details to README.md
+        run: |
+          cat _build/mastodon.md _build/bluesky.md   _build/maven.md  >> README.md
+          cat _build/linkedin.md _build/facebook.md  _build/instagram.md _build/threads.md _build/github.md >> README.md
+          cat _build/youtube.md  _build/twitter.md   _build/tiktok.md    _build/podcasts.md >> README.md
+
+      # Produce the table as markdown and add to README.md
+      - name: Build the table markdown from CSV
+        run: |
+          echo "## Directory" >> README.md
+          csvlook _build/directory.csv >> README.md
+      
+      # Force add the README:
+      - name: Force-add the README to repo
+        run: |
+          git config --global user.email "no@email"
+          git config --global user.name "repo auto-update"
+          git add --force README.md
+          git commit -m "Auto-update README.md"
+          git push --force
+          
+      # Commit the changes
+      # - uses: stefanzweifel/git-auto-commit-action@v5
+      #   with:
+      #     push_options: '--force'
+      #     status_options: '--ignored'
+      #     file_pattern: 'README.md'
