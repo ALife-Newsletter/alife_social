@@ -11,8 +11,6 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
 
 ## Mastodon
 
-Lana Sinapayen https://mastodon.social/@lana_sina
-
 Hiroki Sayama https://mstdn.science/@hirokisayama
 
 Adam Stanton https://wandering.shop/@teapot
@@ -41,8 +39,6 @@ Adam Stanton https://machinemachines.org
 
 ## BlueSky
 
-Lana Sinapayen https://bsky.app/profile/sinalana.bsky.social
-
 Hiroki Sayama https://bsky.app/profile/hirokisayama.bsky.social
 
 Matthias Freiberger https://bsky.app/profile/freiberg.bsky.social
@@ -54,8 +50,6 @@ Seth Bullock https://bsky.app/profile/seth-bullock.bsky.social
 ## Maven
 
 Hiroki Sayama https://app.heymaven.com/profile/1897
-
-Lana Sinapayen https://app.heymaven.com/profile/6311
 
 Peter Rood https://app.heymaven.com/profile/399
 
@@ -176,7 +170,6 @@ Chrystopher L. Nehaniv  https://uwaterloo.ca/systems-design-engineering/profile/
 | Jack Garbus | | | [@jarbus](https://fosstodon.org/@jarbus) | | | | | | | | | https://jarbus.net | | |
 | Julian Sanker | [jpsank](https://github.com/jpsank) | | | | | | [@juliansanker](http://instagram.com/juliansanker) | https://www.linkedin.com/in/juliansanker | | | | | | |
 | Kai Olav Ellefsen | | [@Jallafsen](https://x.com/Jallafsen) | | | | | | | | | | | | |
-| Lana Sinapayen | | | [@lana_sina](https://mastodon.social/@lana_sina) | | [@sinalana.bsky.social](https://bsky.app/profile/sinalana.bsky.social) | https://app.heymaven.com/profile/6311 | | | | | | | | |
 | Matthias Freiberger | | [@mfreib](https://twitter.com/mfreib) | | | [@freiberg.bsky.social](https://bsky.app/profile/freiberg.bsky.social) | | | | | | | | | |
 | Michael Finn | [mycoolfin](https://github.com/mycoolfin) | [@mycoolfin](https://twitter.com/mycoolfin) | | | | | | https://www.linkedin.com/in/michael-finn-412816104/ | | | | | | |
 | Nate Gaylinn | | | [@ngaylinn](https://tech.lgbt/@ngaylinn) | | | | | | | | | | | |
