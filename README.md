@@ -97,5 +97,6 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
 </details>
 
 ## Directory
+
 | name |  affiliation |  github |  twitter |  mastodon |  threads |  bluesy |  maven |  instagram |  linkedin |  facebook |  youtube |  tiktok |  homepage |  blog |  podcast |
 | ---- | ------------ | ------- | -------- | --------- | -------- | ------- | ------ | ---------- | --------- | --------- | -------- | ------- | --------- | ----- | -------- |
