@@ -14,6 +14,7 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
 
  <summary>Homepages</summary>
 
+<p>Lana Sinapayen <a href="https://lanasina.github.io/">https://lanasina.github.io/</a></p>
 </details>
 
 ## Blogs
@@ -28,12 +29,14 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
 
  <summary>Mastodon</summary>
 
+<p>Lana Sinapayen <a href="https://mstdn.science/@lana">https://mstdn.science/@lana</a></p>
 </details>
 
 <details>
 
  <summary>BlueSky</summary>
 
+<p>Lana Sinapayen <a href="@sinalana.bsky.social">@sinalana.bsky.social</a></p>
 </details>
 
 <details>
@@ -97,6 +100,6 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
 </details>
 
 ## Directory
-
-| name |  affiliation |  github |  twitter |  mastodon |  threads |  bluesy |  maven |  instagram |  linkedin |  facebook |  youtube |  tiktok |  homepage |  blog |  podcast |
-| ---- | ------------ | ------- | -------- | --------- | -------- | ------- | ------ | ---------- | --------- | --------- | -------- | ------- | --------- | ----- | -------- |
+| name           |  affiliation |  github |  twitter |  mastodon                    |  threads |  bluesy                |  maven |  instagram |  linkedin |  facebook |  youtube |  tiktok |  homepage                    |  blog |  podcast |
+| -------------- | ------------ | ------- | -------- | ---------------------------- | -------- | ---------------------- | ------ | ---------- | --------- | --------- | -------- | ------- | ---------------------------- | ----- | -------- |
+| Lana Sinapayen |  Sony CSL    |         |          |  https://mstdn.science/@lana |          |  @sinalana.bsky.social |        |            |           |           |          |         |  https://lanasina.github.io/ |       |          |
