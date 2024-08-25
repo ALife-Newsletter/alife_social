@@ -24,6 +24,7 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
  <summary>Blogs</summary>
 
 <p>Adam Stanton <a href="https://machinemachines.org/index.php/blog/">https://machinemachines.org/index.php/blog/</a></p>
+<p>Jack Garbus <a href="jarbus.net">jarbus.net</a></p>
 </details>
 
 ## Social Media
@@ -32,10 +33,13 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
  <summary>Mastodon</summary>
 
 <p>Adam Stanton <a href="https://wandering.shop/@teapot">https://wandering.shop/@teapot</a></p>
+<p>Claus Aranha <a href="https://scholar.social/@caranha">https://scholar.social/@caranha</a></p>
 <p>Clayote <a href="https://peoplemaking.games/@clayote">https://peoplemaking.games/@clayote</a></p>
 <p>Hiroki Sayama <a href="https://mstdn.science/@hirokisayama">https://mstdn.science/@hirokisayama</a></p>
+<p>Jack Garbus <a href="https://fosstodon.org/@jarbus">https://fosstodon.org/@jarbus</a></p>
 <p>Lana Sinapayen <a href="https://mstdn.science/@lana">https://mstdn.science/@lana</a></p>
 <p>Nate Gaylinn <a href="https://tech.lgbt/@ngaylinn">https://tech.lgbt/@ngaylinn</a></p>
+<p>Peter Rood <a href="https://mastodon.social/@peterood">https://mastodon.social/@peterood</a></p>
 </details>
 
 <details>
@@ -44,6 +48,7 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
 
 <p>Hiroki Sayama <a href="https://bsky.app/profile/hirokisayama.bsky.social">https://bsky.app/profile/hirokisayama.bsky.social</a></p>
 <p>Lana Sinapayen <a href="@sinalana.bsky.social">@sinalana.bsky.social</a></p>
+<p>Peter Rood <a href="https://bsky.app/profile/pdr.io">https://bsky.app/profile/pdr.io</a></p>
 </details>
 
 <details>
@@ -51,6 +56,7 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
  <summary>Maven</summary>
 
 <p>Hiroki Sayama <a href="https://app.heymaven.com/profile/1897">https://app.heymaven.com/profile/1897</a></p>
+<p>Peter Rood <a href="https://app.heymaven.com/profile/399">https://app.heymaven.com/profile/399</a></p>
 </details>
 
 <details>
@@ -58,6 +64,7 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
  <summary>LinkedIn</summary>
 
 <p>Hiroki Sayama <a href="https://linkedin.com/in/hirokisayama">https://linkedin.com/in/hirokisayama</a></p>
+<p>Peter Rood <a href="https://www.linkedin.com/in/peterood/">https://www.linkedin.com/in/peterood/</a></p>
 </details>
 
 <details>
@@ -79,6 +86,7 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
  <summary>Threads</summary>
 
 <p>Hiroki Sayama <a href="https://www.threads.net/@hsayama">https://www.threads.net/@hsayama</a></p>
+<p>Peter Rood <a href="https://www.threads.net/@peterdrood">https://www.threads.net/@peterdrood</a></p>
 </details>
 
 <details>
@@ -112,13 +120,17 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
 
  <summary>Podcasts</summary>
 
+<p>Peter Rood <a href="https://example.podcast.com/">https://example.podcast.com/</a></p>
 </details>
 
 ## Directory
-| name           |  affiliation             |  github                           |  twitter                    |  mastodon                            |  threads                          |  bluesy                                            |  maven                                 |  instagram                          |  linkedin                             |  facebook                              |  youtube                           |  tiktok |  homepage                    |  blog                                        |  podcast |
-| -------------- | ------------------------ | --------------------------------- | --------------------------- | ------------------------------------ | --------------------------------- | -------------------------------------------------- | -------------------------------------- | ----------------------------------- | ------------------------------------- | -------------------------------------- | ---------------------------------- | ------- | ---------------------------- | -------------------------------------------- | -------- |
-| Adam Stanton   |  University of Sheffield |  https://github.com/bubblecontrol |                             |  https://wandering.shop/@teapot      |                                   |                                                    |                                        |                                     |                                       |                                        |                                    |         |  https://machinemachines.org |  https://machinemachines.org/index.php/blog/ |          |
-| Clayote        |                          |                                   |                             |  https://peoplemaking.games/@clayote |                                   |                                                    |                                        |                                     |                                       |                                        |                                    |         |                              |                                              |          |
-| Hiroki Sayama  |                          |                                   |  https://x.com/hirokisayama |  https://mstdn.science/@hirokisayama |  https://www.threads.net/@hsayama |  https://bsky.app/profile/hirokisayama.bsky.social |  https://app.heymaven.com/profile/1897 |  https://www.instagram.com/hsayama/ |  https://linkedin.com/in/hirokisayama |  https://www.facebook.com/hirokisayama |  https://youtube.com/ComplexSystem |         |                              |                                              |          |
-| Lana Sinapayen |  Sony CSL                |                                   |                             |  https://mstdn.science/@lana         |                                   |  @sinalana.bsky.social                             |                                        |                                     |                                       |                                        |                                    |         |  https://lanasina.github.io/ |                                              |          |
-| Nate Gaylinn   |                          |                                   |                             |  https://tech.lgbt/@ngaylinn         |                                   |                                                    |                                        |                                     |                                       |                                        |                                    |         |                              |                                              |          |
+| name           |  affiliation             |  github                           |  twitter                    |  mastodon                            |  threads                             |  bluesy                                            |  maven                                 |  instagram                          |  linkedin                              |  facebook                              |  youtube                           |  tiktok |  homepage                    |  blog                                        |  podcast                      |
+| -------------- | ------------------------ | --------------------------------- | --------------------------- | ------------------------------------ | ------------------------------------ | -------------------------------------------------- | -------------------------------------- | ----------------------------------- | -------------------------------------- | -------------------------------------- | ---------------------------------- | ------- | ---------------------------- | -------------------------------------------- | ----------------------------- |
+| Adam Stanton   |  University of Sheffield |  https://github.com/bubblecontrol |                             |  https://wandering.shop/@teapot      |                                      |                                                    |                                        |                                     |                                        |                                        |                                    |         |  https://machinemachines.org |  https://machinemachines.org/index.php/blog/ |                               |
+| Claus Aranha   |                          |                                   |                             |  https://scholar.social/@caranha     |                                      |                                                    |                                        |                                     |                                        |                                        |                                    |         |                              |                                              |                               |
+| Clayote        |                          |                                   |                             |  https://peoplemaking.games/@clayote |                                      |                                                    |                                        |                                     |                                        |                                        |                                    |         |                              |                                              |                               |
+| Hiroki Sayama  |                          |                                   |  https://x.com/hirokisayama |  https://mstdn.science/@hirokisayama |  https://www.threads.net/@hsayama    |  https://bsky.app/profile/hirokisayama.bsky.social |  https://app.heymaven.com/profile/1897 |  https://www.instagram.com/hsayama/ |  https://linkedin.com/in/hirokisayama  |  https://www.facebook.com/hirokisayama |  https://youtube.com/ComplexSystem |         |                              |                                              |                               |
+| Jack Garbus    |                          |                                   |                             |  https://fosstodon.org/@jarbus       |                                      |                                                    |                                        |                                     |                                        |                                        |                                    |         |                              |  jarbus.net                                  |                               |
+| Lana Sinapayen |  Sony CSL                |                                   |                             |  https://mstdn.science/@lana         |                                      |  @sinalana.bsky.social                             |                                        |                                     |                                        |                                        |                                    |         |  https://lanasina.github.io/ |                                              |                               |
+| Nate Gaylinn   |                          |                                   |                             |  https://tech.lgbt/@ngaylinn         |                                      |                                                    |                                        |                                     |                                        |                                        |                                    |         |                              |                                              |                               |
+| Peter Rood     |                          |                                   |                             |  https://mastodon.social/@peterood   |  https://www.threads.net/@peterdrood |  https://bsky.app/profile/pdr.io                   |  https://app.heymaven.com/profile/399  |                                     |  https://www.linkedin.com/in/peterood/ |                                        |                                    |         |                              |                                              |  https://example.podcast.com/ |
