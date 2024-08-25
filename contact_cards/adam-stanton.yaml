@@ -1,0 +1,13 @@
+name: "Adam Stanton"
+affiliations:
+  - name: University of Sheffield
+    title: Lecturer in Data Science and AI
+  - name: Machine Machines
+    title: Researcher
+websites:
+   homepage: https://machinemachines.org
+   blog: https://machinemachines.org/index.php/blog/
+social_media:
+  mastodon: "https://wandering.shop/@teapot"
+  github: https://github.com/bubblecontrol
+
