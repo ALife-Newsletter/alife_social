@@ -1,0 +1,26 @@
+
+name: "Example Human"
+
+affiliations:
+  - name: Example Institution
+    title: Example Title
+
+websites:
+    homepage: https://example.org
+    blog: https://blog.org/example
+
+social_media:
+  mastodon: "https://example.social/@example"
+  twitter:
+  threads:
+  bluesky:
+  maven:
+  instagram:
+  linkedin:
+  facebook:
+  youtube:
+  tiktok:
+  github: https://github.com/example_updated
+
+podcast: https://example.podcast.com/
+
