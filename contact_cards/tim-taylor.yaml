@@ -1,0 +1,19 @@
+
+name: "Tim Taylor"
+
+websites:
+    homepage: https://example.org
+    blog: https://blog.org/example
+
+social_media:
+  mastodon:
+  twitter: https://x.com/drtimt
+  threads:
+  bluesky: https://bsky.app/profile/drtimt.bsky.social
+  maven:
+  instagram:
+  linkedin:
+  facebook:
+  youtube:
+  tiktok:
+  github:
