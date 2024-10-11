@@ -20,6 +20,7 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
 <p>Lana Sinapayen <a href="https://lanasina.github.io/">https://lanasina.github.io/</a></p>
 <p>Seth Bullock <a href="seis.bristol.ac.uk/~sb15704/">seis.bristol.ac.uk/~sb15704/</a></p>
 <p>Shravan Tata Ramalingasetty <a href="https://waveparticle.one/">https://waveparticle.one/</a></p>
+<p>Tim Taylor <a href="https://example.org">https://example.org</a></p>
 </details>
 
 ## Blogs
@@ -33,6 +34,7 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
 <p>Jack Garbus <a href="jarbus.net">jarbus.net</a></p>
 <p>Omer Markovitch <a href="https://sites.google.com/site/omermar/">https://sites.google.com/site/omermar/</a></p>
 <p>Shravan Tata Ramalingasetty <a href="https://waveparticle.one/blog/">https://waveparticle.one/blog/</a></p>
+<p>Tim Taylor <a href="https://blog.org/example">https://blog.org/example</a></p>
 </details>
 
 ## Social Media
@@ -61,6 +63,7 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
 <p>Matthias Freiberger <a href="https://bsky.app/profile/freiberg.bsky.social">https://bsky.app/profile/freiberg.bsky.social</a></p>
 <p>Peter Rood <a href="https://bsky.app/profile/pdr.io">https://bsky.app/profile/pdr.io</a></p>
 <p>Seth Bullock <a href="https://bsky.app/profile/seth-bullock.bsky.social">https://bsky.app/profile/seth-bullock.bsky.social</a></p>
+<p>Tim Taylor <a href="https://bsky.app/profile/drtimt.bsky.social">https://bsky.app/profile/drtimt.bsky.social</a></p>
 </details>
 
 <details>
@@ -152,6 +155,7 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
 <p>Shravan Tata Ramalingasetty <a href="https://x.com/shravantr">https://x.com/shravantr</a></p>
 <p>Stefano Nichele <a href="https://twitter.com/stenichele">https://twitter.com/stenichele</a></p>
 <p>Thomas Michel <a href="https://x.com/Thomik_">https://x.com/Thomik_</a></p>
+<p>Tim Taylor <a href="https://x.com/drtimt">https://x.com/drtimt</a></p>
 </details>
 
 <details>
@@ -197,3 +201,4 @@ The [Tölvera](http://tolvera.is) Taichi Python community Discord: https://disco
 | Shravan Tata Ramalingasetty |  Drexel University College of Medicine                            |  https://github.com/ShravanTata/         |  https://x.com/shravantr        |                                       |                                      |                                                    |                                        |  https://www.instagram.com/shravantata/ |  https://www.linkedin.com/in/shravan-tata-ramalingasetty-90409359/ |                                        |  https://www.youtube.com/@shravi1113 |                                |  https://waveparticle.one/                                        |  https://waveparticle.one/blog/                            |                               |
 | Stefano Nichele             |                                                                   |                                          |  https://twitter.com/stenichele |                                       |                                      |                                                    |                                        |                                         |  https://www.linkedin.com/in/stefano-nichele-a873714               |                                        |                                      |                                |                                                                   |                                                            |                               |
 | Thomas Michel               |                                                                   |  https://github.com/Thomick              |  https://x.com/Thomik_          |                                       |                                      |                                                    |                                        |                                         |  https://www.linkedin.com/in/thomas-michel-71508123b               |                                        |                                      |                                |                                                                   |                                                            |                               |
+| Tim Taylor                  |                                                                   |                                          |  https://x.com/drtimt           |                                       |                                      |  https://bsky.app/profile/drtimt.bsky.social       |                                        |                                         |                                                                    |                                        |                                      |                                |  https://example.org                                              |  https://blog.org/example                                  |                               |
